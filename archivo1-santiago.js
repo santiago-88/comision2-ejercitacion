@@ -1,6 +1,10 @@
- let procces= require('proccess');
+ let process= require('proccess');
 
- proccess = procces.argv[2];
+ comando= process.argv[2];
 
- console.log(procces);
+ console.log(comando);
+ comando2 = process.argv[3];
+ console.log(comando2);
+
+ 
  
