@@ -1,5 +1,5 @@
 let persona = {
     nombre: "angel",
     apellido: "gimenez",
-    edad: 21,
+    edad: 20,
 }
